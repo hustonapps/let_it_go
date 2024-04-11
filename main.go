@@ -1,8 +1,6 @@
 package main
 
-import (
-	"let_it_go/prices"
-)
+import "let_it_go/prices"
 
 func main() {
 	taxRates := []float64{0, 0.07, 0.1, 0.15}
